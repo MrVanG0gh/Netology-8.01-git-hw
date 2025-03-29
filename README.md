@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-[solution #1](https://github.com/MrVanG0gh/Netology-8.01-git-hw/blob/main/README.md)
+[solution #1](https://github.com/MrVanG0gh/Netology-8.01-git-hw/blob/main/README2.md)
 
 ### Задание 2
 
