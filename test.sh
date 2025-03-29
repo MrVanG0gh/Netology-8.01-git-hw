@@ -6,4 +6,6 @@ ip a
 
 ps a
 
+lsblk
+lspci
 
