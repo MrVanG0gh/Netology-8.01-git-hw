@@ -4,3 +4,6 @@
 lsb_release -a
 ip a
 
+ps a
+
+
